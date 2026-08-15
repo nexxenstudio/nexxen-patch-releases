@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "requires": "6.5",
+  "requires_php": "7.4",
+  "tested": "6.8",
+  "download_url": "https://github.com/nexxenstudio/nexxen-patch-releases/releases/download/v1.0.0/nexxen-patch.zip",
+  "details_url": "https://github.com/nexxenstudio/nexxen-patch-releases",
+  "last_updated": "2026-08-15",
+  "changelog": "<h4>1.0.0</h4><ul><li>First release: four toggleable wp-admin fixes for uiXpress and Core Framework conflicts.</li></ul>"
+}

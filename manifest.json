@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.1",
   "requires": "6.5",
   "requires_php": "7.4",
   "tested": "6.8",
-  "download_url": "https://github.com/nexxenstudio/nexxen-patch-releases/releases/download/v1.1.1/nexxen-patch.zip",
+  "download_url": "https://github.com/nexxenstudio/nexxen-patch-releases/releases/download/v1.2.1/nexxen-patch.zip",
   "details_url": "https://github.com/nexxenstudio/nexxen-patch-releases",
   "last_updated": "2026-08-15",
-  "changelog": "<h4>1.1.1</h4><ul><li>Dropdown menus no longer close while moving the pointer into them.</li><li>The profile menu anchors to the sidebar corner instead of floating away.</li></ul><h4>1.1.0</h4><ul><li>Toolbar dropdowns open below the bar as proper menus.</li><li>Consistent toolbar spacing, crisp icons, keyboard chip, clean search button.</li><li>Neutral palette on plugin pages (links, tabs, form controls).</li><li>Theme cards get breathing room.</li><li>Rounded sidebar logo.</li></ul><h4>1.0.0</h4><ul><li>First release: four toggleable wp-admin fixes for uiXpress and Core Framework conflicts.</li></ul>"
+  "changelog": "<h4>1.2.1</h4><ul><li>Readable buttons in admin notices.</li><li>TranslatePress: logo renders, dark action tab.</li><li>Squirrly pages no longer draw boxes around the sidebar.</li><li>Neutral Site Health accents.</li></ul><h4>1.1.1</h4><ul><li>Dropdown menus no longer close while moving the pointer into them.</li><li>The profile menu anchors to the sidebar corner instead of floating away.</li></ul><h4>1.1.0</h4><ul><li>Toolbar dropdowns open below the bar as proper menus.</li><li>Consistent toolbar spacing, crisp icons, keyboard chip, clean search button.</li><li>Neutral palette on plugin pages (links, tabs, form controls).</li><li>Theme cards get breathing room.</li><li>Rounded sidebar logo.</li></ul><h4>1.0.0</h4><ul><li>First release: four toggleable wp-admin fixes for uiXpress and Core Framework conflicts.</li></ul>"
 }
